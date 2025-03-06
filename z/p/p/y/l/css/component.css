@@ -133,7 +133,6 @@
 		height: 0;
 		-webkit-transition: height 0.3s;
 		-moz-transition: height 0.3s;
-		transition: height 0.3s;
 }
 
 .gn-submenu li a {
