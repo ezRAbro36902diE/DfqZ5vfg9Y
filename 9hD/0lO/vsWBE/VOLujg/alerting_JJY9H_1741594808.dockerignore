@@ -3,6 +3,5 @@ keep-ui/node_modules
 keep-ui/.next/*
 keep-ui/.env.local
 .venv/
-.vercel/
 .vscode/
 .github/
