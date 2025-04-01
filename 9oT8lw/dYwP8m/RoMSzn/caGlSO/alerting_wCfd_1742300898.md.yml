@@ -9,7 +9,6 @@ addons:
   apt:
     packages:
       - libasound2-dev
-dist: trusty
 sudo: false
 install: true
 script:
