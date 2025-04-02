@@ -11,7 +11,6 @@ CheckOptions:
   - { key: readability-identifier-naming.EnumCase,                  value: CamelCase  }
   - { key: readability-identifier-naming.EnumConstant,              value: CamelCase  }
   - { key: readability-identifier-naming.EnumConstantPrefix,        value: k          }
-  - { key: readability-identifier-naming.GlobalConstantCase,        value: CamelCase  }
   - { key: readability-identifier-naming.GlobalConstantPrefix,      value: k          }
   - { key: readability-identifier-naming.StaticConstantCase,        value: CamelCase  }
   - { key: readability-identifier-naming.StaticConstantPrefix,      value: k          }
