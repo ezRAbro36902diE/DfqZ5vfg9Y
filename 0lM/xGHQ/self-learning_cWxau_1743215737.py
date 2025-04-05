@@ -21,7 +21,6 @@ if __name__ == '__main__':
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_device
 
     evaluate(args.landlord,
-             args.landlord_up,
              args.landlord_down,
              args.eval_data,
              args.num_workers)
