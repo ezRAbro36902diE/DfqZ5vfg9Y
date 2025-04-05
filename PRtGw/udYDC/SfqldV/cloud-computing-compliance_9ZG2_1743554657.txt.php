@@ -310,7 +310,6 @@ function zc_avatax_cancel_transaction($oID) {
 }
 
 /**
- * Send Commit/Cancel operation to AvaTax.
  */
 function _zc_avatax_update($oID, $type = 'commit') {
   require_once(DIR_WS_CLASSES . 'order.php');
