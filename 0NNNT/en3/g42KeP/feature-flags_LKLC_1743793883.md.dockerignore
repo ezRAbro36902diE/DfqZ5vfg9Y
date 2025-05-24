@@ -7,7 +7,6 @@
 !docs
 !CHANGELOG.md
 !LICENSE
-!README.md
 !frontend
 frontend/node_modules
 !.yarn/**
