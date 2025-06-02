@@ -8,7 +8,6 @@ ui/node_modules/**/*
 ui/node_modules
 ui/.next/**/*
 ui/.next
-
 .git
 .gitignore
 .github
