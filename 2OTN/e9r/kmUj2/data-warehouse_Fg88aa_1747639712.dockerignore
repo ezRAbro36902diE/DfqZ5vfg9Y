@@ -1,5 +1,4 @@
 nexus/target/**/*
-nexus/target
 
 thirdparty/**/*
 thirdparty
